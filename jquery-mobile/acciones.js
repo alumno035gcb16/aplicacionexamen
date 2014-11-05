@@ -21,6 +21,6 @@ $(document).ready(function(e) {
 		},false);
 });
 function escribehistoria(accion){
-	$('#eHistoia').append('<li>'+accino+'</li>');
+	$('#eHistoria').append('<li>'+accino+'</li>');
 }
 
